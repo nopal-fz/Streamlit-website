@@ -22,7 +22,7 @@ Once the application is running, you can interact with it using your web browser
 
 ## File Structure
 
-- `main.py`: The main Streamlit application file containing the user interface and prediction functionality.
+- `app.py`: The main Streamlit application file containing the user interface and prediction functionality.
 - `model.sav`: The pre-trained machine learning model saved as a pickle file.
 - `requirements.txt`: A list of Python dependencies required to run the application.
 - `housing.csv`: The dataset i'm used to this project
